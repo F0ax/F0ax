@@ -6,20 +6,8 @@ You're excited to get up in the morning. (_Larry Page_)
 I'm programming enthuasiast and like to solve problems.
 What thrives me is the excitement of creating something new.
 
-## There is One Problem[^2]
-Most of my repos are private...
-That's the worse! The word "most" is actually the devil here.
-Not just one or a few. No! Most of my projects.
-I lack the ability to release things I make, when I'm not really statisfied with the grade of self set perfection and
-this is not the Zen I should follow.
-"Wabi Sabi" is a concept, a philosopy, a lens through which we can observe our world and surroundings.
-There is really no easy translation for this but here is one:
->  Wabi Sabi is the way to live in peace with the imperfections of our world and the minimalism it offers us. (_Me_)
-
 ---
 **Useful Links:**
 - [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [^1]: _I'm very human!_
-[^2]: _I'm my own tall wall_
-
